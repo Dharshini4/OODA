@@ -1,7 +1,4 @@
 package pos.model;
-
-
-
 public class PizzaModel {
 private String cheese;
 private String vegan;
